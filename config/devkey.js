@@ -1,0 +1,10 @@
+module.exports = {
+    googleProjectId: "test-bot-fjdd",
+    googlePrivateKeyId: "2934d97624d77d1373d79bda512f740d80c9be12",
+    googlePrivateKey: "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC32vP1LiGo1fJs\nTp/W03GFQvxF+RxnjnxaIlRAI+NJzIYOz9OaufxgMx9aplh8iB0VMs5xwQPsdKbt\n6q6DxYFWsqDjPLMsKuNLV8hdZAJnvYp1h+uxU6zyS8O14OCMYfHWmvt1bK0OBhSb\njHWvcFnw/FqNKg8YhCVE6DL1McPf/4ESzn8/4IoPsKMIw1D7bFMQ3BlYmWM6EJcy\nMPdbK3/r/vP/wU2cSYznYYPVGTU9yiw4b9Nnrlwc9N+E7m0+DRFEPNPv4tVJJw1F\nvJ+BNsIRcqIOxTCRfGakNOJEWLpZ9qvI44IeLiThjF/94YJo075eAjq8KLX4jNu4\nsKqCiHW/AgMBAAECggEAJTJEBweVQb4/NJBXoDPZFLfvqAx1JbJbEDU/zFY2Zrjd\nKmP7kKMuHxxYrJNY9aDoGWDVCYieTZlwKFRBiGFOAIdVK4QdT8NBhv20iMhyACEF\nwS+FjLO8Gq0fZE2hwGUUc3GZjDE3dc3fH3U0XhEh8TJs84Bd23zouV8s6BRwZ4HG\nYokNPWPyMdrmk9A7Q54B8/4/9+LyvBpdpsnmfq+YPgPIqZNTd1S0yi6XIZvcTMA7\nZPekB9qUEHl67nOyfprMjVGB1BOF8a4RLAA9770RvohHzt1mHFjlbqL/FNTlyjon\nz5qzMyO1Nl5LtngHHbHrTAsd/0QcKypUz2iCksqo6QKBgQD03wVH0QZvR5QQhFPO\n2xDVyb5d8a/oQcjuBRX5yWy4bQclY3eyHmFb0Wtrn4A31fy5CXxKpjO/S3t6OxSM\nFYoDH6XllslU6TL9D1M0cfXl3pYMt2ojw8m/B5O8esyKAjx2N0WslwgQuGIqhSBb\nN1SzvBKRkTmJhf3Sgrzb+hxxDQKBgQDANglcYRnxlUDhtBcsopUI0GiqbY4zffHc\nyFQFEZRSuxxc18s88u1iFzpwBERJ/LFawWE4j8Ty1TCn66MQ8FcgmUinsKwanqAx\nnQsQHvg8G3+58ho3JmqVZPoBvkW5J3qIK+nQPaCFYRvNxmBQYcPB8KU6pLSa66WH\npGe67giW+wKBgQC3akmpRm8ccS/9wzCHU91jVU7LTVomjQf1CUgxpmdSKRBeOAgT\nGeBxBwcAQSOoLxeyfeFkhONj2SUvJAu69fM/bbg0pWI+wMIZfR4kvWujd7tK4SOW\nkHOQLBvD5PNKOGyTW8lLgoFfDM0y7i6TRHmkey4pbO79DKlXwee2mbwuDQKBgAIe\nFkhQQYrpzAcwhrjVKbMpKJ4ICvMCRjHaeyJ7KRkoOo3DStfnDTpxaxFk2qO+Bu4r\nBzkqTE8ojhqre+Zp32vahHRke+DnMniZdE+/J5jx7JxN0IAfCjmPHTn7sKTzjGQH\np9HFfAk8IqRHtTPtf8yZLBjTS7IROoeeBg6HJM0VAoGARJwZjHCH9qZnswSqN/3Z\n/9iWfEhw3zLpQh8cOL+PUIO/1T2E+G36BGLG4GDNRY7M4+UiIcdOh2Cq2VJHQ8o6\nRwLNfBGL37Za7yLSAjvh8uE38JYALcq4fQqWG9R3FF4+gos+bZlI/NBvD8Yn2s94\nmG32LDEq9a9R4ahIKdybJLE=\n-----END PRIVATE KEY-----\n",
+    googleClientEmail: "test-df-server@test-bot-fjdd.iam.gserviceaccount.com",
+    dialogFlowSessionID: 'testing-session',
+    dialogFlowSessionLanguageCode: 'en-US',
+    customApiKey : 'AIzaSyBtSjVOw-Qql7aqAFRRqBfec9Bne4t2zVQ',
+    customApiEngine: 'c3aa45a61320f423d'
+}
